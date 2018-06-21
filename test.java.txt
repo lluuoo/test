@@ -2,5 +2,7 @@ class GameAction
 {
 	public static void main(String []args){
 		//System.out.println("Hello World");
+		//GIT ADD 
+		//当前文件current file
 	}
 }
